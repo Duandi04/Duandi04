@@ -20,27 +20,99 @@ $ systemctl status duandi.service
      Status: "Matcha level nominal. Designing complex backend logics... 🍵"
 ```
 
-### 🧠 ABOUT THE COGNITIVE ENGINE
+### 🧠 ABOUT THE COGNITIVE ENGINE (LOGIC-FIRST APPROACH)
 
-Saya adalah mahasiswa Software Engineering di Universitas Universal (UVERS) yang saat ini bekerja sebagai ERP Programmer di Tigernix Pte. Ltd. Sebagai seorang programmer, saya memiliki ketertarikan kuat pada ranah backend dan logika. Saat ini saya sedang dalam masa penyusunan tugas akhir skripsi dan berfokus mengembangkan OmniLife Super App. Di luar waktu coding, saya menikmati membaca webtoon, bermain game (Steam, mobile defense, Minecraft), mengeksplorasi kafe-kafe, dan mendengarkan musik Jepang.
+Saya adalah mahasiswa Rekayasa Perangkat Lunak (Software Engineering) di Universitas Universal (UVERS) yang saat ini aktif berkarir sebagai ERP Programmer di Tigernix Pte. Ltd. Sebagai developer backend, fokus utama saya adalah merancang alur logika sistem dan struktur database yang tangguh daripada mengolah estetika visual.
+
+Saat ini, saya terbiasa menggunakan PHP-Laravel (tingkat menengah), SQL, Java dasar, dan sedang aktif memanfaatkan bantuan AI coding assistant untuk mempercepat pembelajaran serta merapikan struktur kode (refactoring). Sembari menyusun tugas akhir (skripsi) di UVERS, saya juga fokus mengembangkan OmniLife Super App. Di luar coding, saya gemar bermain game (Steam, Minecraft server hosting, mobile defense), membaca webtoon, mengeksplorasi kafe-kafe kopi unik, dan mendengarkan musik instrumental Jepang.
 
 ---
 
-### 🚀 CORE DIRECTIVES & MISSION CRITICALS
+### 📊 CORE ENGINEER METRICS
 
-```diff
-+ 🌐 Backend Architecture & Relational Databases
-  Designing scalable, decoupled backend service layers and bulletproof modular databases.
+- **Backend Architecture & DB Design**
+  `████████████████████████░░░░ 95%`
+- **Complex Logic Flow & Calculations**
+  `██████████████████████░░░░░░ 90%`
+- **Agile Collaboration & AI Refactoring**
+  `████████████████████░░░░░░░░ 88%`
 
-+ 📊 Enterprise ERP Engineering
-  Formulating robust business logic, tenancy agreements, and automated reconciliation systems.
+---
 
-+ 📱 Native Mobile & Modern Web
-  Building high-fidelity offline-first SQLite mobile apps and responsive web interfaces.
+### 🗺️ THE JOURNEY MAP (SEMESTER 1 - SEMESTER 8)
 
-+ ⚡ Hyper-Automation Systems & AI Synergy
-  Developing automated shell scripts and leveraging advanced AI engines to maximize velocity.
-```
+<table>
+  <tr>
+    <td align="center"><b>Tahun</b></td>
+    <td align="center"><b>Milestone / Semester</b></td>
+    <td><b>Deskripsi Kegiatan & Pencapaian</b></td>
+  </tr>
+  <tr>
+    <td align="center"><b>2026</b></td>
+    <td><b>Semester 8: Active Thesis & DMS</b></td>
+    <td>Sedang menyusun tugas akhir/skripsi yang berfokus pada <i>Sistem Pengajuan Proposal Terstruktur</i> di UVERS. Secara bersamaan di Tigernix, memimpin pengembangan rekayasa untuk Project <i>Donation Management System (DMS)</i>.</td>
+  </tr>
+  <tr>
+    <td align="center"><b>2025</b></td>
+    <td><b>Semester 7: Systems & Machine Learning</b></td>
+    <td>Di Tigernix, berspesialisasi dalam <i>Sistem Manajemen Properti</i> kelas perusahaan yang mencakup penyewaan, properti, dan alur kerja penyewa yang kompleks. Di UVERS, berfokus pada Python tingkat lanjut, machine learning melalui Kaggle dan Google Colab, serta membangun aplikasi web analitik dengan Streamlit.</td>
+  </tr>
+  <tr>
+    <td align="center"><b>2025</b></td>
+    <td><b>Semester 6: Game Dev & Agility</b></td>
+    <td>Mengeksplorasi dasar-dasar pengembangan game menggunakan Unity Game Engine dan mempelajari Sistem Pengambilan Keputusan di UVERS. Secara bersamaan di Tigernix, mendalami Manajemen Proyek perangkat lunak dan alur kerja koordinasi agile.</td>
+  </tr>
+  <tr>
+    <td align="center"><b>2024</b></td>
+    <td><b>Semester 5: Professional Entry</b></td>
+    <td>Memulai karir profesional di Tigernix sebagai ERP Programmer. Mendalami konsep Enterprise Resource Planning (ERP) berskala besar seperti Odoo, SAP, dan TigernixERP. Menyambungkan pembelajaran Python di kampus dengan pengembangan industri pada modul manajemen sekolah.</td>
+  </tr>
+  <tr>
+    <td align="center"><b>2024</b></td>
+    <td><b>Semester 4: Mobile & Figma</b></td>
+    <td>Mempelajari statistika komputasi, mengeksplorasi rekayasa seluler Android asli, dan merancang sistem UI/UX visual menggunakan Figma. Berhasil membangun prototipe interaktif dengan fidelitas tinggi dan mengembangkan aplikasi Kotlin di Android Studio.</td>
+  </tr>
+  <tr>
+    <td align="center"><b>2023</b></td>
+    <td><b>Semester 3: Web Architecture</b></td>
+    <td>Memperdeep struktur database relasional dan pemrograman web. Membangun tata letak visual yang responsif dari awal dan memulai perjalanan dengan framework PHP Laravel.</td>
+  </tr>
+  <tr>
+    <td align="center"><b>2023</b></td>
+    <td><b>Semester 2: OOP Principles</b></td>
+    <td>Mendalami prinsip Pemrograman Berorientasi Objek (PBO/OOP) menggunakan Java dan skema database. Merancang sistem terstruktur menggunakan diagram Use Case, Class, dan Sequence. Menyambut Git dan GitHub ke dalam rangkaian alat pengembangan saya.</td>
+  </tr>
+  <tr>
+    <td align="center"><b>2022</b></td>
+    <td><b>Semester 1: The Inception</b></td>
+    <td>Masuk Universitas Universal (UVERS) di program studi Teknik Perangkat Lunak. Menemukan semesta pemrograman dengan menulis kode C++, mempelajari algoritma komputasi dasar, database, dan menyusun laporan SKPL (Spesifikasi Kebutuhan Perangkat Lunak).</td>
+  </tr>
+</table>
+
+---
+
+### 🚀 FEATURED SYSTEMS & CASE STUDIES
+
+#### 1. 📱 OmniLife Super App (Offline Storage)
+> Aplikasi mobile multifungsi dasar (personal/kampus) yang mengintegrasikan pencatatan data harian dengan penyimpanan lokal SQLite.
+* **Tantangan Logika Utama:**
+  * Penyusunan tabel database relasional SQLite lokal untuk pencatatan modular.
+  * Pengelolaan sinkronisasi data manual sederhana dari penyimpanan lokal ke server.
+* **Stack:** `Java` | `SQLite` | `Local Sync` | `Mobile Basics`
+
+#### 2. 🏢 Enterprise ERP Modules (ERP Development)
+> Membantu pengembangan dan pemeliharaan modul khusus ERP (manajemen sekolah dasar dan tenancy agreement properti) di tempat kerja.
+* **Tantangan Logika Utama:**
+  * Membantu formulasikan perhitungan denda dan kalkulasi masa kontrak sewa sederhana.
+  * Mempelajari alur rekonsiliasi data mutasi rekening bank secara bertahap.
+* **Stack:** `Laravel` | `PHP` | `MySQL` | `ERP Basics`
+
+#### 3. 📄 Proposal Submission System (UVERS Project)
+> Website sederhana untuk alur pengajuan, pengarsipan, dan pemantauan status proposal skripsi mahasiswa secara akademis di UVERS.
+* **Tantangan Logika Utama:**
+  * Menangani perubahan status approval proposal secara berurutan berdasarkan role pengguna.
+  * Menyimpan dan mengelola versi kode secara aman menggunakan GitHub pribadi.
+* **Stack:** `Laravel` | `MySQL` | `Workflows` | `Personal GitHub`
 
 ---
 
@@ -48,7 +120,7 @@ Saya adalah mahasiswa Software Engineering di Universitas Universal (UVERS) yang
 
 <div align="center">
 
-| Category | Technologies & Tools |
+| Kategori | Teknologi & Tools |
 | :--- | :--- |
 | **Backend & Logic** | <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" /> |
 | **Mobile & Web** | <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> |
@@ -58,7 +130,7 @@ Saya adalah mahasiswa Software Engineering di Universitas Universal (UVERS) yang
 
 ---
 
-### 📊 DEV METRICS & SYSTEM TELEMETRY
+### 📊 DEV METRICS & LIVE TELEMETRY
 
 <p align="center">
   <img src="./assets/dashboard.svg" alt="Duandi's Developer Dashboard" width="100%" />
