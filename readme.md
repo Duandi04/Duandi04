@@ -22,7 +22,7 @@ $ systemctl status duandi.service
 
 ### 🧠 ABOUT THE COGNITIVE ENGINE (LOGIC-FIRST APPROACH)
 
-Saya adalah mahasiswa Rekayasa Perangkat Lunak (Software Engineering) di Universitas Universal (UVERS) yang saat ini aktif berkarir sebagai ERP Programmer di Tigernix Pte. Ltd. Sebagai developer backend, fokus utama saya adalah merancang alur logika sistem dan struktur database yang tangguh daripada mengolah estetika visual.
+Saya adalah mahasiswa Teknik Perangkat Lunak (Software Engineering) di Universitas Universal (UVERS) yang saat ini aktif berkarir sebagai ERP Programmer di Tigernix Pte. Ltd. Sebagai developer backend, fokus utama saya adalah merancang alur logika sistem dan struktur database yang tangguh daripada mengolah estetika visual.
 
 Saat ini, saya terbiasa menggunakan PHP-Laravel (tingkat menengah), SQL, Java dasar, dan sedang aktif memanfaatkan bantuan AI coding assistant untuk mempercepat pembelajaran serta merapikan struktur kode (refactoring). Sembari menyusun tugas akhir (skripsi) di UVERS, saya juga fokus mengembangkan OmniLife Super App. Di luar coding, saya gemar bermain game (Steam, Minecraft server hosting, mobile defense), membaca webtoon, mengeksplorasi kafe-kafe kopi unik, dan mendengarkan musik instrumental Jepang.
 
