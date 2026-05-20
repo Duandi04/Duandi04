@@ -91,31 +91,6 @@ Saat ini, saya terbiasa menggunakan PHP-Laravel (tingkat menengah), SQL, Java da
 
 ---
 
-### 🚀 FEATURED SYSTEMS & CASE STUDIES
-
-#### 1. 📱 OmniLife Super App (Offline Storage)
-> Aplikasi mobile multifungsi dasar (personal/kampus) yang mengintegrasikan pencatatan data harian dengan penyimpanan lokal SQLite.
-* **Tantangan Logika Utama:**
-  * Penyusunan tabel database relasional SQLite lokal untuk pencatatan modular.
-  * Pengelolaan sinkronisasi data manual sederhana dari penyimpanan lokal ke server.
-* **Stack:** `Java` | `SQLite` | `Local Sync` | `Mobile Basics`
-
-#### 2. 🏢 Enterprise ERP Modules (ERP Development)
-> Membantu pengembangan dan pemeliharaan modul khusus ERP (manajemen sekolah dasar dan tenancy agreement properti) di tempat kerja.
-* **Tantangan Logika Utama:**
-  * Membantu formulasikan perhitungan denda dan kalkulasi masa kontrak sewa sederhana.
-  * Mempelajari alur rekonsiliasi data mutasi rekening bank secara bertahap.
-* **Stack:** `Laravel` | `PHP` | `MySQL` | `ERP Basics`
-
-#### 3. 📄 Proposal Submission System (UVERS Project)
-> Website sederhana untuk alur pengajuan, pengarsipan, dan pemantauan status proposal skripsi mahasiswa secara akademis di UVERS.
-* **Tantangan Logika Utama:**
-  * Menangani perubahan status approval proposal secara berurutan berdasarkan role pengguna.
-  * Menyimpan dan mengelola versi kode secara aman menggunakan GitHub pribadi.
-* **Stack:** `Laravel` | `MySQL` | `Workflows` | `Personal GitHub`
-
----
-
 ### 🛠️ COGNITIVE TECH STACKS
 
 <div align="center">
@@ -137,7 +112,7 @@ Saat ini, saya terbiasa menggunakan PHP-Laravel (tingkat menengah), SQL, Java da
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=duandi04&theme=tokyonight&hide_border=true" alt="Duandi's GitHub Streak Stats" width="100%" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=duandi04&theme=highcontrast&hide_border=true&border_radius=5.1&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
 ---
