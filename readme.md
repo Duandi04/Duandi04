@@ -7,65 +7,68 @@ $ systemctl status duandi.service
 ● duandi.service - Software Engineering & ERP Development Cognitive Engine
      Loaded: loaded (/etc/systemd/system/duandi.service; enabled)
      Active: active (running) since Wed 2026-05-20 22:00:00 WIB
-     Main PID: 10340 (powershell)
+     Main PID: 10340 (powershell.exe)
      Status: "Matcha level nominal. Automating complex logics... 🍵"
 ```
 
-### 🧠 TENTANG AKU
+### 🧠 ABOUT THE COGNITIVE ENGINE
 Aku adalah tipe orang yang suka mengubah logika kompleks dan baris kode menjadi sistem yang berjalan otomatis. Kalau ada hal yang bisa diotomatisasi, haram hukumnya buat dilakukan manual. Sehari-hari sibuk ngulik arsitektur perangkat lunak, sistem modular, dan berkolaborasi bareng AI sebagai *pair programmer* andalan.
 
 ---
 
-### 🚀 YANG LAGI AKU TEKUNIN
+### 🚀 CORE DIRECTIVES & OBJECTIVES
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛠️ SaaS &amp; Modular Apps</h4>
-      <p>Ngerancang arsitektur aplikasi yang scalable, modular, dan robust untuk masa depan.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 Agentic AI Workflow</h4>
-      <p>Memaksimalkan LLM dan AI Agents buat mempercepat workflow development (work smarter, code faster).</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📊 ERP Systems</h4>
-      <p>Jinakin alur bisnis data yang rumit biar jadi aplikasi modular yang ramah pengguna.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚡ Hyper-Automations</h4>
-      <p>Bikin tools otomatisasi biar hidup (dan codingan) jadi lebih efisien &amp; tanpa repetition.</p>
-    </td>
-  </tr>
-</table>
+```diff
++ 🌐 SaaS & Modular Architectures
+  Designing highly-scalable modular systems and decoupled service architectures.
+
++ 🤖 Agentic AI Workflows & LLM Orchestrations
+  Harnessing advanced AI Agents & custom LLM pipelines to maximize development throughput.
+
++ 📊 Enterprise ERP Systems
+  Taming complex business data pipelines and database structures into highly-modular, user-centric applications.
+
++ ⚡ Hyper-Automation Systems
+  Designing robust custom automation scripts. If it can be automated, manual is forbidden.
+```
 
 ---
 
-### 🛠️ CORE TECH STACK &amp; TOOLS
+### 🛠️ COGNITIVE TECH STACKS
 
-| Category | Technologies &amp; Tools |
-| :--- | :--- |
-| **Languages &amp; Core** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Frameworks &amp; Dev** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
-| **Ecosystem &amp; Tools** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white) ![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) |
+```yaml
+languages:      [JavaScript, TypeScript, PHP, Python, SQL]
+frameworks:     [Laravel, Next.js, React, Vite, Express]
+ecosystems:     [Firebase, Docker, Sentry, Git, GitHub Copilot]
+methodology:    [DRY, SOLID, OOP, Modular Architecture, Automation]
+```
 
 ---
 
-### 📊 SYSTEM METRICS (GITHUB STATS)
+### 📊 DEV METRICS & SYSTEM TELEMETRY
 
 <p align="center">
-  <a href="https://github.com/duandi04">
-    <img src="https://github-readme-stats.vercel.app/api?username=duandi04&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Duandi's GitHub Stats" height="180px" />
-  </a>
-  <a href="https://github.com/duandi04">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duandi04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
-  </a>
+  <img src="./assets/dashboard.svg" alt="Duandi's Developer Dashboard" width="100%" />
 </p>
 
-> [!NOTE]
-> *Jika stats card di atas tidak muncul, ini dikarenakan server public API GitHub Readme Stats sedang mengalami rate-limiting sementara dari GitHub. Stats akan otomatis kembali normal setelah cache ter-update.*
+---
+
+### ⚡ LATEST BUILD DIAGNOSTICS
+
+```bash
+$ npm run build --project=duandi-portfolio
+
+> duandi-portfolio@1.2.0 build
+> vite build
+
+✓ 48 files transformed.
+rendering chunks...
+✓ built in 1.48s
+
+[SUCCESS] Deployment uploaded to production mainframe.
+[INFO] Active modules: SaaS, ERP, Automation, AgenticAI.
+[STATUS] 0 errors, 0 warnings.
+```
 
 ---
 
