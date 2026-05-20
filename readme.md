@@ -85,6 +85,32 @@ $ cat ~/.config/duandi/fun-facts.json
 
 ---
 
+### 🌐 NETWORK ENDPOINTS (CONTACT)
+
+```bash
+$ ping -c 4 duandi.network
+PING duandi.network (10.0.4.22) 56(84) bytes of data.
+--- duandi.network connection established ---
+📧 Email     :: duandiduan22@gmail.com
+💼 LinkedIn  :: https://linkedin.com/in/duandi-55b168354/
+📸 Instagram :: https://instagram.com/duandiduan/
+🐙 GitHub    :: https://github.com/Duandi04
+```
+
+<p align="center">
+  <a href="mailto:duandiduan22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-duandiduan22%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/duandi-55b168354/">
+    <img src="https://img.shields.io/badge/LinkedIn-Duandi-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/duandiduan/">
+    <img src="https://img.shields.io/badge/Instagram-@duandiduan-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
 <p align="center">
   <i>"Talk is cheap. Show me the code... or let the AI generate the boilerplate first."</i>
 </p>
